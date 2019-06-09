@@ -1,0 +1,43 @@
+body{
+	background-color: rgba(215,234,234, 0.1);
+	font-family:Comic Sans MS;
+	width: 700px;
+    margin: 0px auto;
+
+}
+
+h1,h2{
+	color: #34699a;
+	font-family: Consolas;
+}
+
+
+
+p{
+	color:#69779b;
+}
+
+
+#img-size {
+	width : 700px;
+	height: 450px;
+  }
+
+.div-basic {
+    background: rgba(215,234,234, 0.2);                         
+    padding: 30px;   
+    margin: 30px auto;                         
+    border-radius: 4px;                        
+    box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+    text-align: center;
+  }
+
+ #ul-left{
+ 	text-align: center;
+ 	color:#69779b;
+ }
+
+ .icon-size {
+ 	width:50px;
+ 	height:50px;
+ }
